@@ -1,0 +1,35 @@
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+
+.navbar-dark.bg-dark {
+    background-color: #222;
+}
+
+
+.btn-light {
+    color: #000;
+    background-color: #ffffff;
+}
+
+
+.product-link {
+    color: #000;
+}
+
+.product-link:hover {
+    color: #222;
+}
+
+
+.product:hover {
+    transition: 0.5s;
+    transform: scale(1.02);
+}
+
+.product-link {
+    color: #000 !important;
+    text-decoration: none;
+}
